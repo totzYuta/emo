@@ -77,9 +77,9 @@ I'm so sorry... :sob:
 
 ## Licence
 
-[MIT](https://github.com/totzyuta/emo/master/LICENCE)
+[MIT](https://github.com/totzYuta/emo/blob/master/LICENSE)
 
 
 ## Contributors
 
-[totzyuta](https://github.com/totzyuta)
+- [totzyuta](https://github.com/totzyuta)
